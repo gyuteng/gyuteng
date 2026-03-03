@@ -1,23 +1,8 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-## 🙋‍♂️ 자기 소개
-- 데이터 분석에 관심이 많습니다.
-- 현재 Python으로 머신러닝을 공부하고 있습니다.
-- 목표: 꾸준히 성장하는 데이터 분석가 되기
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-## 🛠️ 기술 스택
-- Python
-- Pandas
-- Numpy
-- Tableau
-- SQL
-- Git/GitHub
-
-## 🗂️ 프로젝트
-| 프로젝트명 | 설명 | 링크 |
-| --------| ----|-----|
-| 미션 12 | 머신러닝으로 데이터 분석 |  ----|
-
-## ✉️ 연락처
-- Email: example@example.com
-
+<!-- 깔끔한 배지 -->
+<a href="https://github.com/gyuteng" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+<!-- 설명이 있는 배지 -->
+<a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/PROFILE-github%20blog%20-ff69b4/></a>
